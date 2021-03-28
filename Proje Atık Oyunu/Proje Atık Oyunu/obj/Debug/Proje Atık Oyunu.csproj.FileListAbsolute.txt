@@ -1,0 +1,19 @@
+D:\2019-2020 NDP Ödevleri\Proje Atık Oyunu\Proje Atık Oyunu\bin\Debug\Proje Atık Oyunu.exe.config
+D:\2019-2020 NDP Ödevleri\Proje Atık Oyunu\Proje Atık Oyunu\bin\Debug\Proje Atık Oyunu.exe
+D:\2019-2020 NDP Ödevleri\Proje Atık Oyunu\Proje Atık Oyunu\bin\Debug\Proje Atık Oyunu.pdb
+D:\2019-2020 NDP Ödevleri\Proje Atık Oyunu\Proje Atık Oyunu\obj\Debug\Proje Atık Oyunu.csprojAssemblyReference.cache
+D:\2019-2020 NDP Ödevleri\Proje Atık Oyunu\Proje Atık Oyunu\obj\Debug\Proje_Atık_Oyunu.Form1.resources
+D:\2019-2020 NDP Ödevleri\Proje Atık Oyunu\Proje Atık Oyunu\obj\Debug\Proje_Atık_Oyunu.Properties.Resources.resources
+D:\2019-2020 NDP Ödevleri\Proje Atık Oyunu\Proje Atık Oyunu\obj\Debug\Proje Atık Oyunu.csproj.GenerateResource.cache
+D:\2019-2020 NDP Ödevleri\Proje Atık Oyunu\Proje Atık Oyunu\obj\Debug\Proje Atık Oyunu.exe
+D:\2019-2020 NDP Ödevleri\Proje Atık Oyunu\Proje Atık Oyunu\obj\Debug\Proje Atık Oyunu.pdb
+C:\Users\mert_\Desktop\Proje Atık Oyunu\Proje Atık Oyunu\bin\Debug\Proje Atık Oyunu.exe.config
+C:\Users\mert_\Desktop\Proje Atık Oyunu\Proje Atık Oyunu\bin\Debug\Proje Atık Oyunu.exe
+C:\Users\mert_\Desktop\Proje Atık Oyunu\Proje Atık Oyunu\bin\Debug\Proje Atık Oyunu.pdb
+C:\Users\mert_\Desktop\Proje Atık Oyunu\Proje Atık Oyunu\obj\Debug\Proje Atık Oyunu.csprojAssemblyReference.cache
+C:\Users\mert_\Desktop\Proje Atık Oyunu\Proje Atık Oyunu\obj\Debug\Proje_Atık_Oyunu.Form1.resources
+C:\Users\mert_\Desktop\Proje Atık Oyunu\Proje Atık Oyunu\obj\Debug\Proje_Atık_Oyunu.Properties.Resources.resources
+C:\Users\mert_\Desktop\Proje Atık Oyunu\Proje Atık Oyunu\obj\Debug\Proje Atık Oyunu.csproj.GenerateResource.cache
+C:\Users\mert_\Desktop\Proje Atık Oyunu\Proje Atık Oyunu\obj\Debug\Proje Atık Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\mert_\Desktop\Proje Atık Oyunu\Proje Atık Oyunu\obj\Debug\Proje Atık Oyunu.exe
+C:\Users\mert_\Desktop\Proje Atık Oyunu\Proje Atık Oyunu\obj\Debug\Proje Atık Oyunu.pdb
